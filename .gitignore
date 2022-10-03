@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# TensorBoard logs
+TAAPC_Exercises/week2_CNNs/my_logs
