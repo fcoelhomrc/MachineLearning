@@ -130,3 +130,6 @@ dmypy.json
 
 # TensorBoard logs
 TAAPC_Exercises/week2_CNNs/my_logs
+
+# Sketch-dataset project Data
+Sketch_Classifier/sketches_png
