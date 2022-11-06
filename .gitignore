@@ -133,3 +133,9 @@ TAAPC_Exercises/week2_CNNs/my_logs
 
 # Sketch-dataset project Data
 Sketch_Classifier/sketches_png
+
+# TAAPC Project Data
+TAAPC_Project/mvtec_data
+TAAPC_Project/mvtec_anomaly_detection
+TAAPC_Project/mvtec_anomaly_detection.tar
+TAAPC_Project/mvtec_anomaly_detection.tar.xz
